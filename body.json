@@ -1,0 +1,8 @@
+{
+    "species": "pikachu",
+    "nickname": "pika",
+    "level": 10,
+    "moves": ["thunder-shock", "mega-punch", "thunder-wave", "double-team"],
+    "diversityValues": [15, 15, 15, 15],
+    "statExp": [12,34,56,78,90]
+}

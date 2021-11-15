@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: pokemonolith
+
+mongodb:
+  uri: mongodb://localhost:27017
